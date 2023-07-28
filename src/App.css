@@ -1,9 +1,15 @@
+h1 {
+  margin: 0;
+  padding: 0;
+}
 .dark-mode {
+  height: 100vh;
   background-color: #333;
   color: #fff;
 }
 
 .light-mode {
+  height: 100vh;
   background-color: #fff;
   color: #333;
 }
